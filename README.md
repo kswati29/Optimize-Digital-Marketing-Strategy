@@ -1,4 +1,4 @@
-# Optimize-Digital-Marketing-Strategy
+# Optimize-Digital-Marketing-Strategy with Linear Programming
 Optimization with Linear Programming for Budget Allocation- Digital Display Ads Inventory
 
 ### Purpose and Objective
