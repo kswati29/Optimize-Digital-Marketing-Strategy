@@ -1,5 +1,5 @@
 # Optimize-Digital-Marketing-Strategy
-Optimal Budget Allocation for Digital Display Ads Inventory
+Optimization with Linear Programming for Budget Allocation- Digital Display Ads Inventory
 
 ### Purpose and Objective
 Generically, the ad related KPIs are missed by a margin due to a weak budget allocation strategy in digital marketing. We intend to model this issue and utilize Linear Programming approach to produce an optimized solution for budget allocation of digital ads that satisfies thresholds for several campaign key performance indicators based on criterias and constraints towards acheiving the target.
